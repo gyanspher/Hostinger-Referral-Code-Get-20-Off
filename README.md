@@ -60,7 +60,7 @@ Can I combine a referral link with a manually typed coupon code? Usually only on
 
 What's the safest way to get the Hostinger 20% off referral discount? Use an official, verified referral link, choose a longer-term plan, and verify the final price at checkout instead of relying on random codes shared on forums or blogs.
 
-Final Takeaway
+#  Final Takeaway
 
 If you're comparing every version of a "Hostinger referral code," "Hostinger coupon," or "Hostinger 20% off coupon code" search, the pattern is the same: the real savings come from Hostinger's own auto-applied promotional pricing, with a referral link adding a bit more on top for new customers. Skip the guesswork of expired codes — go straight to a verified link and confirm your price at checkout.
 
