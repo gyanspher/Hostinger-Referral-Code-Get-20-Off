@@ -6,13 +6,14 @@ Searching for a working Hostinger referral code, a Hostinger coupon, or a Hostin
 
 [Activate Hostinger's Current Pricing Here](https://www.hostinger.com/in?REFERRALCODE=knowledges)
 
-What Is the Hostinger Referral Program?
+#  What Is the Hostinger Referral Program?
+
 
 The Hostinger referral program lets new customers get an extra discount — commonly advertised as 20% off — on top of Hostinger's regular promotional pricing, which can already run as high as 70–80% off long-term plans. Instead of a traditional "type-in" coupon, most of this savings is unlocked simply by visiting Hostinger through a verified referral link, choosing an eligible plan, and completing checkout as a new customer.
 
 This is why so many searches for a "Hostinger referral code" or "Hostinger coupon code 20% off" actually lead back to the same core mechanic: an auto-applied discount tied to a link, rather than a mysterious code that unlocks hidden pricing.
 
-Hostinger Coupon vs. Referral Code — What's the Difference?
+#  Hostinger Coupon vs. Referral Code — What's the Difference?
 
 These terms get used interchangeably, but here's the practical difference:
 
@@ -21,13 +22,15 @@ Hostinger referral code / referral link — A link that automatically applies a 
 
 In practice, the referral link method tends to be more reliable, since manually typed codes often expire, get restricted to specific regions, or simply stop working once a promotion ends.
 
-How to Redeem the Hostinger 20% Off Coupon Code (Step-by-Step)
+#  How to Redeem the Hostinger 20% Off Coupon Code (Step-by-Step)
+
 Open the referral link to land on Hostinger's current promotional pricing page.
 Pick your hosting type — Shared, WordPress, Cloud, VPS, or Business — based on your project.
 Select a longer billing duration (12, 24, or 48 months), since the deepest discounts are almost always tied to longer terms.
 Check the cart for a coupon field. If a manual "Have a coupon code?" box appears, only enter a code you've verified is current — many circulating online are expired.
 Confirm the final price at checkout before paying, since this is the only place the real, combined discount is visible.
-Why "Hostinger 20 Off Coupon Code" Searches Often Lead to Dead Ends
+
+#  Why "Hostinger 20 Off Coupon Code" Searches Often Lead to Dead Ends
 
 A lot of pages promoting a specific text code (often random alphanumeric strings) are outdated, region-locked, or were never officially issued by Hostinger in the first place. Some common reasons a code search leads nowhere useful:
 
