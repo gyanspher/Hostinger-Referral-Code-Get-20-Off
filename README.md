@@ -6,6 +6,7 @@ Searching for a working Hostinger referral code, a Hostinger coupon, or a [Hosti
 
 [👉 Activate Hostinger's Current Pricing Here
 ]([url](https://www.hostinger.com/in?REFERRALCODE=knowledges))
+
 What Is the Hostinger Referral Program?
 
 The Hostinger referral program lets new customers get an extra discount — commonly advertised as 20% off — on top of Hostinger's regular promotional pricing, which can already run as high as 70–80% off long-term plans. Instead of a traditional "type-in" coupon, most of this savings is unlocked simply by visiting Hostinger through a verified referral link, choosing an eligible plan, and completing checkout as a new customer.
