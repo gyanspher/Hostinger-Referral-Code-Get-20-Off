@@ -6,7 +6,7 @@ Searching for a working Hostinger referral code, a Hostinger coupon, or a Hostin
 
 [Activate Hostinger's Current Pricing Here](https://www.hostinger.com/in?REFERRALCODE=knowledges)
 
-**What Is the Hostinger Referral Program?**
+#  What Is the Hostinger Referral Program?
 
 
 The Hostinger referral program lets new customers get an extra discount — commonly advertised as 20% off — on top of Hostinger's regular promotional pricing, which can already run as high as 70–80% off long-term plans. Instead of a traditional "type-in" coupon, most of this savings is unlocked simply by visiting Hostinger through a verified referral link, choosing an eligible plan, and completing checkout as a new customer.
@@ -41,7 +41,8 @@ Hostinger's checkout already applied the maximum discount automatically, making 
 
 If you're specifically hunting for a coupon hostinger deal, your safest bet is checking the live pricing page directly rather than relying on a code posted somewhere months ago.
 
-Plans Eligible for the Referral Discount
+#  Plans Eligible for the Referral Discount
+
 Shared Hosting — best for beginners, blogs, and simple personal sites
 WordPress Hosting — optimized for WordPress speed, one-click installs, managed updates
 Cloud Hosting — for growing sites that need dedicated resources and better uptime
@@ -51,7 +52,9 @@ Frequently Asked Questions
 
 Is there an active Hostinger referral program in 2026? Yes — Hostinger continues to run new-customer referral pricing, though the exact discount and promotional period can shift over time.
 
-Does the Hostinger coupon code work for existing customers? Generally no. Referral and new-user discounts are designed for first-time customers, not renewals.
+#  Does the Hostinger coupon code work for existing customers? 
+
+Generally no. Referral and new-user discounts are designed for first-time customers, not renewals.
 
 Can I combine a referral link with a manually typed coupon code? Usually only one discount mechanism applies per order — check the final checkout total rather than assuming multiple discounts stack.
 
